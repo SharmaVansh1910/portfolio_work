@@ -10,7 +10,7 @@ const skillCategories = [
   },
   {
     title: 'Frameworks',
-    skills: ['React', 'Node.js', 'Express', 'Tailwind', 'Bootstrap', 'EJS'],
+    skills: ['React', 'Next.js',  'Node.js', 'Express', 'Tailwind', 'Bootstrap', 'EJS'],
     color: 'from-purple-500 to-pink-500',
   },
   {
@@ -20,12 +20,12 @@ const skillCategories = [
   },
   {
     title: 'Developer Tools',
-    skills: ['Git', 'GitHub', 'VS Code', 'Figma', 'REST API', 'Jupyter'],
+    skills: ['Git', 'GitHub', 'VS Code', 'Figma', 'REST API', 'Jupyter','Figma'],
     color: 'from-orange-500 to-red-500',
   },
   {
     title: 'Libraries',
-    skills: ['pandas', 'NumPy', 'Matplotlib', 'Seaborn'],
+    skills: ['pandas', 'NumPy', 'Matplotlib', 'Seaborn','Framer'],
     color: 'from-yellow-500 to-orange-500',
   },
 ];
