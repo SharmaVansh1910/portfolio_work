@@ -10,7 +10,7 @@ const skillCategories = [
   },
   {
     title: 'Frameworks',
-    skills: ['React', 'Next.js',  'Node.js', 'Express', 'Tailwind', 'Bootstrap', 'EJS'],
+    skills: ['React', 'Next.js',  'Node.js', 'Express', 'Tailwind', 'Bootstrap', 'EJS','Motion'],
     color: 'from-purple-500 to-pink-500',
   },
   {
@@ -25,7 +25,7 @@ const skillCategories = [
   },
   {
     title: 'Libraries',
-    skills: ['pandas', 'NumPy', 'Matplotlib', 'Seaborn','Framer'],
+    skills: ['pandas', 'NumPy', 'Matplotlib', 'Seaborn','Framer','Shadcn UI'],
     color: 'from-yellow-500 to-orange-500',
   },
 ];
