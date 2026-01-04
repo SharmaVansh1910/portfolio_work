@@ -19,7 +19,7 @@ const contactInfo = [
   {
     icon: MapPin,
     label: 'Location',
-    value: 'Rohini, Delhi, India',
+    value: 'Delhi, India',
     href: '#',
   },
 ];
@@ -28,12 +28,12 @@ const socialLinks = [
   {
     icon: Github,
     label: 'GitHub',
-    href: 'https://github.com/Vansh',
+    href: 'https://github.com/SharmaVansh1910',
   },
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/Vansh',
+    href: 'https://www.linkedin.com/in/vansh-sharma-a4b652335',
   },
 ];
 
