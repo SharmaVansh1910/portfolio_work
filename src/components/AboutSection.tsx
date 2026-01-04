@@ -24,6 +24,11 @@ const highlights = [
     title: 'Open Source',
     description: 'Active contributor to organizations like KubeStellar, enhancing web applications',
   },
+  {
+    icon: Sparkles,
+    title: 'UI/UX',
+    description: 'Active contributor to organizations like KubeStellar, enhancing web UI/UX applications',
+  },
 ];
 
 const AboutSection = () => {
