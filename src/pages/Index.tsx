@@ -7,6 +7,7 @@ import SkillsSection from '@/components/SkillsSection';
 import ContactSection from '@/components/ContactSection';
 import Footer from '@/components/Footer';
 import ParticleField from '@/components/ParticleField';
+import AIChatBot from '@/components/AIChatBot';
 
 const Index = () => {
   return (
@@ -22,6 +23,7 @@ const Index = () => {
         <ContactSection />
       </main>
       <Footer />
+      <AIChatBot />
     </div>
   );
 };
