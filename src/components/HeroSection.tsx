@@ -70,8 +70,9 @@ const HeroSection = () => {
             </a>
           </Button>
           <Button variant="heroOutline" size="lg" asChild>
-            <a href="#projects">
-              View Projects
+            <a href="/Vansh_Sharma_Resume.pdf" download>
+              <Download className="mr-2 h-5 w-5" />
+              Download Resume
             </a>
           </Button>
         </motion.div>
