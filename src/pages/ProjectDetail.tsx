@@ -228,7 +228,7 @@ const ProjectDetail = () => {
             className="mt-8 flex gap-4 justify-center"
           >
             <Button variant="hero" size="lg" asChild>
-              <a href="https://github.com/Vansh" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/SharmaVansh1910" target="_blank" rel="noopener noreferrer">
                 <Github className="mr-2 w-5 h-5" />
                 View on GitHub
               </a>
